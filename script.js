@@ -1,8 +1,10 @@
-document.write("Hello, world!");
+document.write("Hello, This is a psychological puzzle.");
 
 function sayHello(){
   var response = prompt("What's your name?");
-  alert("Hello, " + response + " have a nice day! :)");
+  alert("Hello, " + response + ". Welcome to this psychological puzzle!");
+  alert("Actually, it is more like a trick.");
+  alert("Have fun. :)");
 }
 
 function add(a,b){
